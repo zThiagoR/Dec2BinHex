@@ -1,9 +1,9 @@
 
-#Dec2BinHex
+# Dec2BinHex
 
 Retornando aos estudos de javascripts em back-end, e eu não consigo ter uma ideia para poder fazer algo que eu gosto, então fiz um pequeno projeto e simples de acordo com o repositório [App-ideias](https://github.com/florinpop17/app-ideas).
 
-##Funções
+## Funções
 
 No momento o que eu realizei para fazer a conversão foram:
 
